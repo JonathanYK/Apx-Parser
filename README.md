@@ -1,3 +1,7 @@
+
+Created APX parser that parsing JSON APX stocks using Jackson to new JSON file according to the requirements below. 
+In this project, I used the Spring boot framework, Jackson parsing, and other libs such as Lombok, etc.
+
 # APX market data parser
 
 Example of JSON data that we need to parse is available at
